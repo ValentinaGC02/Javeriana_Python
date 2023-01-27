@@ -1,1 +1,3 @@
-
+print("Hola mundo")
+print("Mi nombre es Valentina Gutierrez Cadena")
+print("Hoy es 26/01/2023" "y son las 9:34 p.m.")
